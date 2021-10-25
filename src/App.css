@@ -1,0 +1,15 @@
+.Header
+{
+    color: blueviolet;
+}
+body
+{
+    background-color:lightblue;
+}
+.TweetBody
+{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-around;
+}
